@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+    color: white;
+    background-image: url(rain.gif);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.text{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: 2.5rem;
+    margin-top: 50px;
+}
